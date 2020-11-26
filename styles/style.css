@@ -126,6 +126,7 @@ footer {
   background: #d3817a;
   transition: all 0.7s ease;
   clip-path: circle(0% at 40px 30px);
+  z-index: 10;
 }
 
 .wrapper #check {display: none;}

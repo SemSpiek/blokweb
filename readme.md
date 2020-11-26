@@ -48,12 +48,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+<table>
+<thead>
+<tr>
+<th>Student 1 - Zoe</th>
+<th>Student 2 - Maryem</th>
+<th>Student 3 - Anne</th>
+<th>Student 4 - Sem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mijn website</td>
+<td>Mijn website</td>
+<td>Mijn website</td>
+<td>Mijn website</td>
+</tr>
+<tr>
+<td>Breakpoint</td>
+<td>Slider</td>
+<td>Waar kan ik het best mee beginnen</td>
+<td>Menu en nav</td>
+</tr>
+<tr>
+<td>Product slider</td>
+<td>Uitklappen van menu</td>
+<td>Zoekbalk en animatie menu</td>
+<td>Automatische letter slider</td>
+</tr>
+</tbody>
+</table>
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
