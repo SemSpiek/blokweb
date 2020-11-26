@@ -86,7 +86,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="media/breakdown-shets.png" width="375px" alt="homepage">
 
 
 
@@ -101,17 +101,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/IMG_5938.jpg" width="375px" alt="homepage">
-<img src="images/IMG_5939.jpg" width="375px" alt="homepage">
-<img src="images/IMG_5940.jpg" width="375px" alt="homepage">
-<img src="images/IMG_5941.jpg" width="375px" alt="homepage">
-
-
+<img src="media/IMG_5938.jpg" width="375px" alt="homepage">
+<img src="media/IMG_5939.jpg" width="375px" alt="homepage">
+<img src="media/IMG_5940.jpg" width="375px" alt="homepage">
+<img src="media/IMG_5941.jpg" width="375px" alt="homepage">
 
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/IMG_5944.jpg" width="375px" alt="enterpeneurs pagina">
-<img src="images/IMG_5945.jpg" width="375px" alt="enterpeneurs pagina">
-<img src="images/IMG_5946.jpg" width="375px" alt="enterpeneurs pagina">
-<img src="images/IMG_5947.jpg" width="375px" alt="enterpeneurs pagina">
+<img src="media/IMG_5944.jpg" width="375px" alt="enterpeneurs pagina">
+<img src="media/IMG_5945.jpg" width="375px" alt="enterpeneurs pagina">
+<img src="media/IMG_5946.jpg" width="375px" alt="enterpeneurs pagina">
+<img src="media/IMG_5947.jpg" width="375px" alt="enterpeneurs pagina">
