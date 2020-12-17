@@ -20,8 +20,8 @@ h1 {
   text-transform: uppercase;
   font-weight: 800;
   line-height: 0.8;
-  letter-spacing: 0.3;
-  font-size: 4.4em;
+  letter-spacing: -7px;
+  font-size: 4.1em;
 
 }
 h2 {
@@ -220,11 +220,13 @@ footer {
   }
 
 
-.basic-img{
+.basic-img, .basic-img1{
 width: 17em;
  height: 20%;
 position: relative;
 opacity: 1;
+-webkit-box-shadow: 0px 5px 15px 0px rgba(76,76,76,0.26); 
+box-shadow: 0px 5px 15px 0px rgba(76,76,76,0.26);
 }
 
 
@@ -262,8 +264,8 @@ opacity: 1;
 #who-are_we{
   display: flex;
   flex-direction: column;
-  margin-top: 100px;
-  padding:6em 1em 2em 1em;
+ 
+  padding:5em 1em 2em 1em;
 }
 
 
@@ -353,12 +355,8 @@ opacity: 1;
 }
 
 #healthier_people blockquote{
-  margin: 4em 0 4em 0;
-
-
-
+margin: 4em 0 0 0.5em;
 }
-
 
 
 
@@ -372,24 +370,122 @@ opacity: 1;
 
 @media all and (min-width: 60em) {
 
-  #who-are_we{
- 
-  flex-direction:row;
-
-}
-
   p {
   font-weight: 300;
   line-height: 1.4em;
   letter-spacing: 0.01em;
+  max-width: 30em;
+  margin-left: 2em;
+
+  
+}
+
+h1{
+max-width: 25em;
+margin-left: 2em;
+
+}
+
+
+
+blockquote{
+  max-width: 25em;
+  margin: 0.5em 0 0 2em;
+}
+
+.flex-container_desk{
+ 
+  margin-bottom: 0;
+}
+
+.basic-img, .basic-img1{
+  height:auto;
+}
+
+  #intro, .quote2, .slider-text-container {
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #intro h1{
+  width: 60%;
+  font-size: 9em;
+  margin: 0.5em 0 0 0em;
+}
+
+#intro p{
+  
+  margin: 3em 38em 1.4em 0em;
+
+}
+ #intro img {
+width: 25em;
+margin-top: -10em;
+}
+
+.container_desktop{
+  display: flex;
+  flex-direction: row;
+}
+
+.quote_p{
+  display: flex;
+  flex-direction: column;
+}
+
+#who-are_we img{
+  margin: 0;
+}
+
+
+
+#who-are_we {
+  max-width:70em;
+  padding: 8em 0 10em 0;
+}
+
+#who-are_we p  {
+  margin:2em;
+  padding: 0em 1em 2em 1em;
+}
+
+
+.quote_img_container{
+  display: flex;
+  flex-direction: row;
+ text-align: left;
+ margin: 4em 1em 0 4em;
+}
+
+.quote2{
+margin-left: 2em;
+}
+
+
+
+#healthier_people{
+margin-top: 0;
+}
+
+
+#healthier_people blockquote{
+margin: 4em 1em 0 4em;
+}
+
+footer{
+  display: flex;
+  flex-direction: row;
 }
 
 
 
 
-
-
 }
+
+
+
+
 
 @media all and (min-width: 90em) {
   
