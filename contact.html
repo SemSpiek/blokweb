@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="nl">
+	
+	<head>
+		<meta charset="UTF-8">
+		<meta name="author" content="Sem Spiekman">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;700;900&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+		<title>Ripe Planet</title>
+		
+		<link href="styles/style.css" rel="stylesheet">
+		<script  src="scripts/script.js"></script>
+	</head>
+	
+	<body>
+		
+		<header>
+			<!--Begin menu-->
+			<div class="wrapper wrapper-none">
+				<input type="checkbox" id="check">
+				<label for="check" class="open"><i class="fas fa-bars"></i></label>
+				<nav>
+					<label for="check" class="close"><i class="fas fa-times"></i></label>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="#">Intiatives</a></li>
+						<li><a href="#">For investors</a></li>
+						<li><a href="#">Entrepreneurs</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</div>
+			<!--End menu-->
+		</header>
+		<!-- main -->
+		<main>
+			<section id="contact-block">
+				<!-- image -->
+				<div class="">
+					<img class="img-contact" id="Afbeelding" alt="persoon die tablet vasthoud" src="media/contact.png">
+				</div>
+				<!-- image -->
+				<!-- begin form -->
+				<div class="form-container">
+					<form id="contact">
+						<h2>Contact us today, and get reply with in 24 hours!</h2>
+						<fieldset>
+							<input placeholder="Your name" type="text" >
+						</fieldset>
+						<fieldset>
+							<input placeholder="Your Email Address" type="email">
+						</fieldset>
+						<fieldset>
+							<input placeholder="Your Phone Number" type="tel" >
+						</fieldset>
+						<fieldset>
+							<textarea placeholder="Type your Message Here...."></textarea>
+						</fieldset>
+						<fieldset>
+							<button name="submit" type="button"  onclick="AfbeeldingVeranderen()">Submit</button>
+						</fieldset>
+					</form>
+				</div>
+			</section>
+			<!-- begin form -->
+		</main>
+		<!--  end Main content -->
+		<footer>
+			<div class="contain">
+				<div class="col">
+					<h1>Company</h1>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Intiatives</a></li>
+						<li><a href="#">Entrepreneurs</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<h1>Products</h1>
+					<ul>
+						<li><a href="#">Tech</a></li>
+						<li><a href="#">Awards</a></li>
+						<li><a href="#">Our work</a></li>
+						<li><a href="#">Members</a></li>
+						<li><a href="#">Roadmap</a></li>
+					</ul>
+				</div>
+				<div class="col">
+					<h1>More</h1>
+					<ul>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Mission</a></li>
+					    <li><a href="#">Services</a></li>
+						<li><a href="#">Social</a></li>
+						<li><a href="#">Get in touch</a></li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

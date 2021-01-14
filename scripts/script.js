@@ -1,8 +1,14 @@
 // JavaScript Document
 
 
-//*https://www.w3schools.com/howto/howto_js_slideshow.asp
 
+
+function AfbeeldingVeranderen()
+{
+document.getElementById("Afbeelding").src="media/thanks.png";
+}
+
+/*https://www.w3schools.com/howto/howto_js_slideshow.asp*/
 var slideIndex = 1;
 showSlides(slideIndex);
 

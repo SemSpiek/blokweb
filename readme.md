@@ -1,14 +1,20 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** -Sem Spiekman-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.w3schools.com/howto/howto_js_slideshow.asp
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+3. https://dlo.mijnhva.nl/d2l/le/content/192710/Home
+4  https://www.w3schools.com/css/css3_flexbox_responsive.asp
+5  https://ripeplanet.com/investors
+6  https://www.youtube.com/watch?v=MR2xuIy6V7g&ab_channel=DeltatyCode*/
+7  https://stackoverflow.com/questions/19609387/change-image-when-clicking-button/19609457
+
+
 
 
 
@@ -24,7 +30,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+Deze week de voorlopige versie laten zien, de eerste pagina is voor mobiel af, voor desktop nog niet geoptimaliseerd.
+Deze week liep ik tegen het onderelkaar zetten van content in een  flexbox row, uiteindelijk in de voorgang opgelost.
 
 
 
@@ -44,11 +51,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Menu nog wat problemen animatie vragen, deze week ben ik bezig geweest met de eerste pagina, alle html staat, en css is mee begonnen.
 
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent met korte uitleg-
 
 ### Agenda voor meeting
 
